@@ -2,7 +2,6 @@
 
 I'm Thomas, a passionate Full Stack Developer with over five years of professional experience in the field of Computer Science and Engineering. My expertise spans web and app development, data structures, and algorithms, with a particular interest in solving complex problems and learning new technologies. 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TBJr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://thomasbrown.app)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TBJr&show_icons=true)  
 
