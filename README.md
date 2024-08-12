@@ -42,25 +42,23 @@ I'm Thomas, a passionate full-stack developer and tech enthusiast dedicated to b
 
   My journey into the world of coding began with a deep curiosity about how the digital tools and applications we use daily are built. This curiosity quickly turned into a passion, driving me to explore the depths of programming and software development.
 
-🌱 The Early Days
+#### 🌱 The Early Days
 I started with the basics—HTML, CSS, and JavaScript—building simple web pages and interactive elements. These foundational skills gave me a solid understanding of how the web works and sparked my interest in creating more complex, dynamic applications.
 
-🛠️ Diving into Backend Development
+#### 🛠️ Diving into Backend Development
 As my skills grew, I gravitated towards backend development, where I found my true calling. I delved into PHP and Laravel, mastering the art of building scalable and secure applications. Laravel, with its elegant syntax and robust features, became my go-to framework for developing everything from small projects to large-scale systems.
 
-📱 Expanding into Mobile Development
+#### 📱 Expanding into Mobile Development
 I was not one to rest on my laurels, so I expanded my expertise into mobile development. Learning Flutter and React Native opened up a new world of possibilities, allowing me to create seamless, cross-platform mobile applications. Whether it’s building a feature-rich financial app or a sleek educational tool, I strive to deliver top-notch user experiences.
 
-🌐 Embracing DevOps
+#### 🌐 Embracing DevOps
 Understanding that development doesn’t stop at coding, I embraced DevOps practices to streamline and automate the deployment process. GitHub Actions, Docker, and cloud platforms like Cloudways and GoDaddy became integral tools in my workflow, enabling me to deliver applications efficiently and reliably.
 
-🌟 Current Focus
+#### 🌟 Current Focus
 Today, I’m focused on pushing the boundaries of what’s possible with technology. My projects, like the EMIS system for educational management and the Pay Money app for financial transactions, reflect my commitment to creating solutions that address real-world challenges.
 
-🚀 Looking Forward
+#### 🚀 Looking Forward
 As I continue to evolve as a developer, I’m excited to explore new technologies and contribute to innovative projects. I believe in the power of collaboration and am always open to working with like-minded individuals who share my passion for technology and innovation.
 
-
 </details>
----
 
