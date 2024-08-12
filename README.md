@@ -2,16 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate full-stack software developer and tech enthusiast dedicated to building innovative solutions that make a difference while learning new tech along the process.
 
-### 🚀 Current Projects
-####EMIS: 
-A Laravel 11 project designed to create a seamless communication channel between parents, students, and school administrators, fostering transparency and efficiency. It features robust reporting capabilities and synchronizes attendance across platforms.
-
-####Pay Money App: 
-A mobile application for secure and convenient financial transactions, including QR payments, global money transfers, and mobile credit purchases. This app ensures top-notch security and an intuitive user experience.
-
-####Lux Dental Clinic: 
-The Lux Dental Clinic project is a comprehensive web application designed to streamline the operations of a modern dental clinic. It offers a seamless experience for both patients and clinic staff, enhancing efficiency and improving patient care.
-
 💻 Technologies & Tools
 Backend: Laravel, Node.js, PHP
 Frontend: HTML, CSS, JavaScript, Vue.js
