@@ -30,12 +30,8 @@ I'm Thomas, a passionate full-stack developer and tech enthusiast dedicated to b
 
 ---
 
-#
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TBJr&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TBJr)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-
-# 
 
 <details>
   <summary><h3>🚀 Thomas's Coding Journey</h3></summary>
