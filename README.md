@@ -34,7 +34,7 @@ I'm Thomas, a passionate full-stack developer and tech enthusiast dedicated to b
 <br />
 
 <details>
-  <summary><h3>🚀 Thomas's Coding Journey</h3></summary>
+  <summary><h3>🚀 Thomas's Coding Journey</h3>
 
   My journey into the world of coding began with a deep curiosity about how the digital tools and applications we use daily are built. This curiosity quickly turned into a passion, driving me to explore the depths of programming and software development.
 
@@ -55,6 +55,7 @@ Today, I’m focused on pushing the boundaries of what’s possible with technol
 
 #### 🚀 Looking Forward
 As I continue to evolve as a developer, I’m excited to explore new technologies and contribute to innovative projects. I believe in the power of collaboration and am always open to working with like-minded individuals who share my passion for technology and innovation.
+</summary>
 
 </details>
 
