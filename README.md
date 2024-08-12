@@ -17,7 +17,7 @@ I'm Thomas, a passionate full-stack developer and tech enthusiast dedicated to b
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="React Native" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<br />
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -33,7 +33,7 @@ I'm Thomas, a passionate full-stack developer and tech enthusiast dedicated to b
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TBJr&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TBJr)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TBJr)](https://github.com/ryo-ma/github-profile-trophy) ![GitHub streak stats](https://streak-stats.demolab.com/?user=TBJr) 
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=TBJr)](https://github.com/ryo-ma/github-profile-trophy) ![GitHub streak stats](https://streak-stats.demolab.com/?user=TBJr) -->
 
 ---
 
