@@ -33,6 +33,7 @@ I'm Thomas, a passionate full-stack developer and tech enthusiast dedicated to b
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TBJr&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TBJr)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
+<!--
 <details>
   <summary><h3>🚀 Thomas's Coding Journey</h3></summary>
   My journey into the world of coding began with a deep curiosity about how the digital tools and applications we use daily are built. This curiosity quickly turned into a passion, driving me to explore the depths of programming and software development.
@@ -56,4 +57,4 @@ I'm Thomas, a passionate full-stack developer and tech enthusiast dedicated to b
   As I continue to evolve as a developer, I’m excited to explore new technologies and contribute to innovative projects. I believe in the power of collaboration and am always open to working with like-minded individuals who share my passion for technology and innovation.
 
 </details>
-
+-->
