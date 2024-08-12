@@ -28,6 +28,8 @@ I'm Thomas, a passionate full-stack developer and tech enthusiast dedicated to b
 <img align="left" alt="Bash" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+---
+
 #
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TBJr&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TBJr)](https://github.com/anuraghazra/github-readme-stats)
