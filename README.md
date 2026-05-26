@@ -142,3 +142,8 @@ I'm open to collaborating on:
 ### ⚡ Fun Fact
 
 I enjoy turning complex problems into simple, useful, and impactful software solutions.
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TBJr&show_icons=true&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TBJr&layout=compact&langs_count=18)
+<br />
