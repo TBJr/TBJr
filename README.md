@@ -84,7 +84,11 @@ I’m always exploring new technologies, improving my craft, and looking for exc
 
 ---
 
-## 🌱 Currently Exploring
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### 🌱 Currently Exploring
 
 - Scalable backend architecture
 - Cloud deployment and DevOps workflows
@@ -92,9 +96,10 @@ I’m always exploring new technologies, improving my craft, and looking for exc
 - API design and system optimization
 - AI-assisted software development
 
----
+    </td>
+    <td valign="top" width="50%">
 
-## 🤝 Let's Collaborate
+### 🤝 Let's Collaborate
 
 I'm open to collaborating on:
 
@@ -105,8 +110,11 @@ I'm open to collaborating on:
 - Startup and product ideas
 - DevOps and deployment workflows
 
-If you have an idea worth building, let's connect and bring it to life.
+    </td>
+  </tr>
+</table>
 
+    If you have an idea worth building, let's connect and bring it to life.
 ---
 
 ## 📫 Connect With Me
