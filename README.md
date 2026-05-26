@@ -1,60 +1,136 @@
-## 👋 Thomas Brown 🚀
+# 👋 Hey, I'm Thomas Brown
 
-**`🔧 Full-Stack Software Engineer 🚀 | Web App Dev | Mobile Dev | DevOps | Open to Collaboration 🌍`**
+### 🚀 Full-Stack Software Engineer | Web App Developer | Mobile App Developer | DevOps Enthusiast
 
-I'm Thomas, a passionate full-stack developer and tech enthusiast dedicated to building innovative and robust solutions/applications that make a difference, from cutting-edge to seamless mobile apps, while learning new tech along the way. I’m all about turning ideas into impactful solutions. Whether it's diving deep into complex systems, optimizing performance, or exploring new tech frontiers, I'm always up for a challenge.
+I'm a passionate full-stack developer who enjoys building scalable, reliable, and user-focused digital solutions.  
+From modern web applications to cross-platform mobile apps and automated deployment workflows, I love turning ideas into impactful products.
+
+I’m always exploring new technologies, improving my craft, and looking for exciting opportunities to collaborate on meaningful projects.
 
 ---
 
-### 🧰 Languages and Tools
+## 🚀 What I Do
 
-<img align="left" alt="PHP" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-<img align="left" alt="Python" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="HTML" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Vuejs" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
-<img align="left" alt="NodeJS" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="TypeScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="React" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Flutter" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-<img align="left" alt="C++" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="Java" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="GitHub" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="GitHubActions" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
-<img align="left" alt="Git" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Bash" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+- 🧩 Build full-stack web applications
+- 📱 Develop cross-platform mobile apps
+- ⚙️ Design backend APIs and database-driven systems
+- ☁️ Automate deployment and DevOps workflows
+- 🧠 Explore new technologies and solve real-world problems
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend
+
+<p>
+  <img align="left" alt="HTML" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img align="left" alt="CSS" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img align="left" alt="JavaScript" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="left" alt="TypeScript" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img align="left" alt="React" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="left" alt="Vue.js" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
+</p>
+
+<br />
+<br />
+
+### Backend
+
+<p>
+  <img align="left" alt="PHP" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img align="left" alt="Node.js" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="left" alt="Python" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  <img align="left" alt="Java" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="left" alt="Spring" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="left" alt="C++" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+</p>
+
+<br />
+<br />
+
+### Mobile Development
+
+<p>
+  <img align="left" alt="Flutter" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+</p>
+
+<br />
+<br />
+
+### DevOps & Tools
+
+<p>
+  <img align="left" alt="Git" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="left" alt="GitHub" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="left" alt="GitHub Actions" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
+  <img align="left" alt="Linux" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="left" alt="Bash" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+</p>
+
+<br />
 <br />
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TBJr&show_icons=true&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TBJr&layout=compact&langs_count=18)
-<br />
+## 🌟 Featured Projects
 
-<!--
-<details>
-  <summary><h3>🚀 Thomas's Coding Journey</h3></summary>
-  My journey into the world of coding began with a deep curiosity about how the digital tools and applications we use daily are built. This curiosity quickly turned into a passion, driving me to explore the depths of programming and software development.
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **EMIS System** | Educational management information system designed to support school and institutional workflows. | PHP, Laravel, MySQL |
+| **Pay Money App** | Mobile-focused financial transaction application built for secure and convenient payments. | Flutter, APIs |
+| **Web Applications & Dashboards** | Responsive web platforms, admin dashboards, and business-focused applications. | React, Vue.js, Node.js |
+| **Automation & Deployment Workflows** | CI/CD workflows and deployment automation for smoother development operations. | GitHub Actions, Linux, Bash |
 
-  #### 🌱 The Early Days
-  I started with the basics—HTML, CSS, and JavaScript—building simple web pages and interactive elements. These foundational skills gave me a solid understanding of how the web works and sparked my interest in creating more complex, dynamic applications.
+---
 
-  #### 🛠️ Diving into Backend Development
-  As my skills grew, I gravitated towards backend development, where I found my true calling. I delved into PHP and Laravel, mastering the art of building scalable and secure applications. Laravel, with its elegant syntax and robust features, became my go-to framework for developing everything from small projects to large-scale systems.
+## 🌱 Currently Exploring
 
-  #### 📱 Expanding into Mobile Development
-  I was not one to rest on my laurels, so I expanded my expertise into mobile development. Learning Flutter and React Native opened up a new world of possibilities, allowing me to create seamless, cross-platform mobile applications. Whether it’s building a feature-rich financial app or a sleek educational tool, I strive to deliver top-notch user experiences.
+- Scalable backend architecture
+- Cloud deployment and DevOps workflows
+- Cross-platform mobile app performance
+- API design and system optimization
+- AI-assisted software development
 
-  #### 🌐 Embracing DevOps
-  Understanding that development doesn’t stop at coding, I embraced DevOps practices to streamline and automate the deployment process. GitHub Actions, Docker, and cloud platforms like Cloudways and GoDaddy became integral tools in my workflow, enabling me to deliver applications efficiently and reliably.
+---
 
-  #### 🌟 Current Focus
-  Today, I’m focused on pushing the boundaries of what’s possible with technology. My projects, like the EMIS system for educational management and the Pay Money app for financial transactions, reflect my commitment to creating solutions that address real-world challenges.
+## 🤝 Let's Collaborate
 
-  #### 🚀 Looking Forward
-  As I continue to evolve as a developer, I’m excited to explore new technologies and contribute to innovative projects. I believe in the power of collaboration and am always open to working with like-minded individuals who share my passion for technology and innovation.
+I'm open to collaborating on:
 
-</details>
--->
+- Full-stack web applications
+- Mobile app development
+- Backend systems and APIs
+- Open-source projects
+- Startup and product ideas
+- DevOps and deployment workflows
+
+If you have an idea worth building, let's connect and bring it to life.
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://thomasbrown.app">
+    <img src="https://img.shields.io/badge/Website-Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge" />
+  </a>
+
+  <a href="https://github.com/TBJr">
+    <img src="https://img.shields.io/badge/GitHub-TBJr-181717?style=for-the-badge&logo=github" alt="GitHub Badge" />
+  </a>
+
+  <a href="https://gitlab.com/TBJr">
+    <img src="https://img.shields.io/badge/GitLab-TBJr-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge" />
+  </a>
+
+  <a href="https://discord.com/users/618233581512425472">
+    <img src="https://img.shields.io/badge/Discord-TBJr%20%7C%20tbj3528-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
+  </a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+I enjoy turning complex problems into simple, useful, and impactful software solutions.
