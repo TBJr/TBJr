@@ -99,7 +99,7 @@ query($login:String!, $after:String){
     repositories(ownerAffiliations:OWNER, isFork:false, first:100, after:$after){
       pageInfo{ hasNextPage endCursor }
       nodes{
-        languages(first:15, orderBy:{field:SIZE, direction:DESC}){
+        languages(first:100, orderBy:{field:SIZE, direction:DESC}){
           edges{ size node{ name color } }
         }
       }
@@ -282,14 +282,18 @@ def build_langs_svg(langs):
 DEMO_STATS = {"name": "Thomas Brown", "stars": 128, "commits": 1342, "prs": 214,
               "issues": 96, "contributed": 37, "followers": 88, "repos": 41}
 DEMO_LANGS = [
-    {"name": "PHP", "pct": 24.6, "color": "#4F5D95"},
-    {"name": "JavaScript", "pct": 21.3, "color": "#f1e05a"},
-    {"name": "TypeScript", "pct": 15.8, "color": "#3178c6"},
-    {"name": "Dart", "pct": 12.1, "color": "#00B4AB"},
-    {"name": "Python", "pct": 9.7, "color": "#3572A5"},
-    {"name": "Vue", "pct": 7.4, "color": "#41b883"},
-    {"name": "Java", "pct": 5.6, "color": "#b07219"},
-    {"name": "Shell", "pct": 3.5, "color": "#89e051"},
+    {"name": "PHP", "pct": 22.1, "color": "#4F5D95"},
+    {"name": "JavaScript", "pct": 18.9, "color": "#f1e05a"},
+    {"name": "TypeScript", "pct": 14.2, "color": "#3178c6"},
+    {"name": "Dart", "pct": 11.0, "color": "#00B4AB"},
+    {"name": "Python", "pct": 8.8, "color": "#3572A5"},
+    {"name": "Vue", "pct": 6.7, "color": "#41b883"},
+    {"name": "Java", "pct": 5.1, "color": "#b07219"},
+    {"name": "HTML", "pct": 4.3, "color": "#e34c26"},
+    {"name": "CSS", "pct": 3.6, "color": "#563d7c"},
+    {"name": "Shell", "pct": 2.7, "color": "#89e051"},
+    {"name": "Dockerfile", "pct": 1.6, "color": "#384d54"},
+    {"name": "C++", "pct": 1.0, "color": "#f34b7d"},
 ]
 
 
@@ -297,7 +301,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--user", default=os.environ.get("GH_USER", "TBJr"))
     ap.add_argument("--out", default="assets")
-    ap.add_argument("--top", type=int, default=8)
+    ap.add_argument("--top", type=int, default=12)
     ap.add_argument("--demo", action="store_true", help="use fake data, no API call")
     args = ap.parse_args()
 
