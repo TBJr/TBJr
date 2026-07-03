@@ -1,86 +1,97 @@
-# 👋 Hey, I'm Thomas Brown
+<div align="center">
 
-### 🚀 Full-Stack Software Engineer | Web App Developer | Mobile App Developer | DevOps Enthusiast
+# 👋 Hi, I'm Thomas Brown
 
-I'm a passionate full-stack developer who enjoys building scalable, reliable, and user-focused digital solutions.  
-From modern web applications to cross-platform mobile apps and automated deployment workflows, I love turning ideas into impactful products.
+### Full-Stack Software Engineer · Web & Mobile · DevOps
 
-I’m always exploring new technologies, improving my craft, and looking for exciting opportunities to collaborate on meaningful projects.
+Building scalable, reliable, user-focused digital products. From modern web apps and cross-platform mobile to automated deployment pipelines.
+
+<a href="https://thomasbrown.app"><img src="https://img.shields.io/badge/Portfolio-thomasbrown.app-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://github.com/TBJr"><img src="https://img.shields.io/badge/GitHub-TBJr-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://gitlab.com/TBJr"><img src="https://img.shields.io/badge/GitLab-TBJr-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/></a>
+<a href="https://discord.com/users/618233581512425472"><img src="https://img.shields.io/badge/Discord-tbj3528-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+
+</div>
 
 ---
 
 ## 🚀 What I Do
 
-- 🧩 Build full-stack web applications
-- 📱 Develop cross-platform mobile apps
-- ⚙️ Design backend APIs and database-driven systems
-- ☁️ Automate deployment and DevOps workflows
-- 🧠 Explore new technologies and solve real-world problems
+- 🧩 &nbsp;Build full-stack web applications
+- 📱 &nbsp;Develop cross-platform mobile apps
+- ⚙️ &nbsp;Design backend APIs and database-driven systems
+- ☁️ &nbsp;Automate deployment and DevOps workflows
+- 🧠 &nbsp;Explore new technologies and solve real-world problems
 
 ---
 
 ## 🧰 Tech Stack
 
-### Frontend
+**Frontend**
 
 <p>
-  <img align="left" alt="HTML" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img align="left" alt="CSS" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img align="left" alt="JavaScript" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="left" alt="TypeScript" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img align="left" alt="React" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="left" alt="Vue.js" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
+  <img alt="HTML5" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>&nbsp;&nbsp;
+  <img alt="CSS3" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>&nbsp;&nbsp;
+  <img alt="JavaScript" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>&nbsp;&nbsp;
+  <img alt="TypeScript" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>&nbsp;&nbsp;
+  <img alt="React" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>&nbsp;&nbsp;
+  <img alt="Vue.js" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
 </p>
 
-<br />
-<br />
-
-### Backend
+**Backend**
 
 <p>
-  <img align="left" alt="PHP" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img align="left" alt="Node.js" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="left" alt="Python" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  <img align="left" alt="Java" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="left" alt="Spring" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="left" alt="C++" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+  <img alt="PHP" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>&nbsp;&nbsp;
+  <img alt="Laravel" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>&nbsp;&nbsp;
+  <img alt="Node.js" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>&nbsp;&nbsp;
+  <img alt="Python" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>&nbsp;&nbsp;
+  <img alt="Java" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>&nbsp;&nbsp;
+  <img alt="Spring" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>&nbsp;&nbsp;
+  <img alt="C++" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 </p>
 
-<br />
-<br />
-
-### Mobile Development
+**Mobile**
 
 <p>
-  <img align="left" alt="Flutter" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+  <img alt="Flutter" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>&nbsp;&nbsp;
+  <img alt="Dart" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
 </p>
 
-<br />
-<br />
-
-### DevOps & Tools
+**DevOps & Tools**
 
 <p>
-  <img align="left" alt="Git" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="left" alt="GitHub" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="left" alt="GitHub Actions" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
-  <img align="left" alt="Linux" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="left" alt="Bash" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img alt="Git" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>&nbsp;&nbsp;
+  <img alt="GitHub" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>&nbsp;&nbsp;
+  <img alt="GitHub Actions" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg"/>&nbsp;&nbsp;
+  <img alt="Docker" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>&nbsp;&nbsp;
+  <img alt="Linux" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>&nbsp;&nbsp;
+  <img alt="Bash" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 </p>
-
-<br />
-<br />
 
 ---
 
 ## 🌟 Featured Projects
 
 | Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **EMIS System** | Educational management information system designed to support school and institutional workflows. | PHP, Laravel, MySQL |
-| **Pay Money App** | Mobile-focused financial transaction application built for secure and convenient payments. | Flutter, APIs |
-| **Web Applications & Dashboards** | Responsive web platforms, admin dashboards, and business-focused applications. | React, Vue.js, Node.js |
-| **Automation & Deployment Workflows** | CI/CD workflows and deployment automation for smoother development operations. | GitHub Actions, Linux, Bash |
+|---------|-------------|------------|
+| **EMIS System** | Educational management information system supporting school and institutional workflows. | PHP · Laravel · MySQL |
+| **Pay Money App** | Mobile-focused financial transaction app built for secure, convenient payments. | Flutter · REST APIs |
+| **Web Apps & Dashboards** | Responsive web platforms, admin dashboards, and business applications. | React · Vue.js · Node.js |
+| **Automation & Deployment** | CI/CD workflows and deployment automation for smoother dev operations. | GitHub Actions · Linux · Bash |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img alt="Thomas Brown's GitHub stats" src="assets/github-stats.svg"/>
+&nbsp;&nbsp;
+<img alt="Most used languages" src="assets/top-langs.svg"/>
+
+<sub>Cards are generated by a scheduled GitHub Action and served as static files from this repo — no external stats service, no rate limits.</sub>
+
+</div>
 
 ---
 
@@ -91,59 +102,33 @@ I’m always exploring new technologies, improving my craft, and looking for exc
 ### 🌱 Currently Exploring
 
 - Scalable backend architecture
-- Cloud deployment and DevOps workflows
-- Cross-platform mobile app performance
-- API design and system optimization
+- Cloud deployment & DevOps workflows
+- Cross-platform mobile performance
+- API design & system optimization
 - AI-assisted software development
 
-    </td>
-    <td valign="top" width="50%">
+  </td>
+  <td valign="top" width="50%">
 
 ### 🤝 Let's Collaborate
 
-I'm open to collaborating on:
+I'm open to working on:
 
 - Full-stack web applications
 - Mobile app development
-- Backend systems and APIs
+- Backend systems & APIs
 - Open-source projects
-- Startup and product ideas
-- DevOps and deployment workflows
+- Startup & product ideas
+- DevOps & deployment workflows
 
-    </td>
+  </td>
   </tr>
 </table>
 
-    If you have an idea worth building, let's connect and bring it to life.
----
+<div align="center">
 
-## 📫 Connect With Me
+**Got an idea worth building? Let's connect and bring it to life.**
 
-<p>
-  <a href="https://thomasbrown.app">
-    <img src="https://img.shields.io/badge/Website-Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge" />
-  </a>
+⚡ &nbsp;*Fun fact: I enjoy turning complex problems into simple, useful software.*
 
-  <a href="https://github.com/TBJr">
-    <img src="https://img.shields.io/badge/GitHub-TBJr-181717?style=for-the-badge&logo=github" alt="GitHub Badge" />
-  </a>
-
-  <a href="https://gitlab.com/TBJr">
-    <img src="https://img.shields.io/badge/GitLab-TBJr-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge" />
-  </a>
-
-  <a href="https://discord.com/users/618233581512425472">
-    <img src="https://img.shields.io/badge/Discord-TBJr%20%7C%20tbj3528-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
-  </a>
-</p>
-
----
-
-### ⚡ Fun Fact
-
-I enjoy turning complex problems into simple, useful, and impactful software solutions.
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TBJr&show_icons=true&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TBJr&layout=compact&langs_count=18)
-<br />
+</div>
