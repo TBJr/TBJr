@@ -1,0 +1,57 @@
+<svg width="470" height="200" viewBox="0 0 470 200"
+     xmlns="http://www.w3.org/2000/svg" role="img"
+     aria-label="Thomas Brown GitHub stats">
+  <style>
+    .title { font: 600 18px 'Segoe UI',Ubuntu,Sans-Serif; fill:#58a6ff; }
+    .stat  { font: 400 14px 'Segoe UI',Ubuntu,Sans-Serif; fill:#c9d1d9; }
+    .num   { font: 700 14px 'Segoe UI',Ubuntu,Sans-Serif; fill:#c9d1d9; }
+    .rank  { font: 700 20px 'Segoe UI',Ubuntu,Sans-Serif; fill:#58a6ff; }
+  </style>
+  <rect x="0.5" y="0.5" rx="10" width="469" height="199"
+        fill="#0d1117" stroke="#30363d"/>
+  <text x="25" y="35" class="title">Thomas Brown's GitHub Stats</text>
+  <g transform="translate(25,0)">
+    <g transform="translate(0,48)">
+      <svg x="0" y="0" width="16" height="16" viewBox="0 0 16 16" fill="#58a6ff">
+        <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.75.75 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"/>
+      </svg>
+      <text x="26" y="12" class="stat">Total Stars Earned</text>
+      <text x="195" y="12" class="num">5</text>
+    </g>
+    <g transform="translate(0,74)">
+      <svg x="0" y="0" width="16" height="16" viewBox="0 0 16 16" fill="#58a6ff">
+        <path d="M10.5 7.75a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0ZM1 7.75a.75.75 0 0 1 .75-.75h2.879a3.5 3.5 0 0 1 6.742 0h2.879a.75.75 0 0 1 0 1.5h-2.879a3.5 3.5 0 0 1-6.742 0H1.75A.75.75 0 0 1 1 7.75Z"/>
+      </svg>
+      <text x="26" y="12" class="stat">Total Commits</text>
+      <text x="195" y="12" class="num">1.7k</text>
+    </g>
+    <g transform="translate(0,100)">
+      <svg x="0" y="0" width="16" height="16" viewBox="0 0 16 16" fill="#58a6ff">
+        <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354Z"/>
+      </svg>
+      <text x="26" y="12" class="stat">Total PRs</text>
+      <text x="195" y="12" class="num">1</text>
+    </g>
+    <g transform="translate(0,126)">
+      <svg x="0" y="0" width="16" height="16" viewBox="0 0 16 16" fill="#58a6ff">
+        <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"/>
+      </svg>
+      <text x="26" y="12" class="stat">Total Issues</text>
+      <text x="195" y="12" class="num">1</text>
+    </g>
+    <g transform="translate(0,152)">
+      <svg x="0" y="0" width="16" height="16" viewBox="0 0 16 16" fill="#58a6ff">
+        <path d="M2 5.5a3.5 3.5 0 1 1 5.898 2.549 5.508 5.508 0 0 1 3.034 4.084.75.75 0 1 1-1.482.235 4 4 0 0 0-7.9 0 .75.75 0 0 1-1.482-.236A5.507 5.507 0 0 1 3.102 8.05 3.493 3.493 0 0 1 2 5.5ZM11 4a3.001 3.001 0 0 1 2.22 5.018 5.01 5.01 0 0 1 2.56 3.012.749.749 0 0 1-.885.954.752.752 0 0 1-.549-.514 3.507 3.507 0 0 0-2.522-2.372.75.75 0 0 1-.574-.73v-.352a.75.75 0 0 1 .416-.672A1.5 1.5 0 0 0 11 5.5.75.75 0 0 1 11 4Z"/>
+      </svg>
+      <text x="26" y="12" class="stat">Contributed to</text>
+      <text x="195" y="12" class="num">0</text>
+    </g></g>
+  
+    <g transform="translate(370,100)">
+      <circle r="40" fill="none" stroke="#21262d" stroke-width="6"/>
+      <circle r="40" fill="none" stroke="#58a6ff" stroke-width="6"
+              stroke-linecap="round" stroke-dasharray="126.2 251.3"
+              transform="rotate(-90)"/>
+      <text text-anchor="middle" y="7" class="rank">B+</text>
+    </g>
+</svg>
