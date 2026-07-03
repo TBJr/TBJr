@@ -1,0 +1,54 @@
+name: Update GitHub stats cards
+
+# Regenerates assets/github-stats.svg and assets/top-langs.svg, then commits
+# them if they changed. Because the README points at these committed files,
+# your profile never makes a live call to an external stats service.
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # every 12 hours
+  workflow_dispatch: {}       # lets you run it by hand from the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - "scripts/generate_stats.py"
+      - ".github/workflows/update-stats.yml"
+
+permissions:
+  contents: write             # needed to commit the refreshed SVGs
+
+concurrency:
+  group: update-stats
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate SVG cards
+        env:
+          # GITHUB_TOKEN covers all public data. To include private-repo
+          # commit/language counts, create a PAT with repo scope, add it as a
+          # secret named STATS_TOKEN, and swap the line below to:
+          #   GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python scripts/generate_stats.py --user "$GH_USER" --out assets --top 8
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain assets)" ]; then
+            git add assets/*.svg
+            git commit -m "chore: refresh GitHub stats cards"
+            git push
+          else
+            echo "No changes to stats cards."
+          fi
