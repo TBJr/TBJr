@@ -39,7 +39,7 @@ jobs:
           #   GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USER: ${{ github.repository_owner }}
-        run: python scripts/generate_stats.py --user "$GH_USER" --out assets --top 8
+        run: python scripts/generate_stats.py --user "$GH_USER" --out assets --top 12
 
       - name: Commit if changed
         run: |
