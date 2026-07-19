@@ -16,7 +16,7 @@
         <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.75.75 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"/>
       </svg>
       <text x="26" y="12" class="stat">Total Stars Earned</text>
-      <text x="195" y="12" class="num">5</text>
+      <text x="195" y="12" class="num">6</text>
     </g>
     <g transform="translate(0,74)">
       <svg x="0" y="0" width="16" height="16" viewBox="0 0 16 16" fill="#58a6ff">
@@ -50,7 +50,7 @@
     <g transform="translate(370,100)">
       <circle r="40" fill="none" stroke="#21262d" stroke-width="6"/>
       <circle r="40" fill="none" stroke="#58a6ff" stroke-width="6"
-              stroke-linecap="round" stroke-dasharray="126.2 251.3"
+              stroke-linecap="round" stroke-dasharray="126.4 251.3"
               transform="rotate(-90)"/>
       <text text-anchor="middle" y="7" class="rank">B+</text>
     </g>
