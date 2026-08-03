@@ -50,7 +50,7 @@
     <g transform="translate(370,100)">
       <circle r="40" fill="none" stroke="#21262d" stroke-width="6"/>
       <circle r="40" fill="none" stroke="#58a6ff" stroke-width="6"
-              stroke-linecap="round" stroke-dasharray="126.4 251.3"
+              stroke-linecap="round" stroke-dasharray="126.5 251.3"
               transform="rotate(-90)"/>
       <text text-anchor="middle" y="7" class="rank">B+</text>
     </g>
