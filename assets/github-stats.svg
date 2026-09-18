@@ -23,7 +23,7 @@
         <path d="M10.5 7.75a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0ZM1 7.75a.75.75 0 0 1 .75-.75h2.879a3.5 3.5 0 0 1 6.742 0h2.879a.75.75 0 0 1 0 1.5h-2.879a3.5 3.5 0 0 1-6.742 0H1.75A.75.75 0 0 1 1 7.75Z"/>
       </svg>
       <text x="26" y="12" class="stat">Total Commits</text>
-      <text x="195" y="12" class="num">1.7k</text>
+      <text x="195" y="12" class="num">1.8k</text>
     </g>
     <g transform="translate(0,100)">
       <svg x="0" y="0" width="16" height="16" viewBox="0 0 16 16" fill="#58a6ff">
