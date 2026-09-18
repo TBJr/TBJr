@@ -1,33 +1,37 @@
-<svg width="345" height="330" viewBox="0 0 345 330"
+<svg width="345" height="382" viewBox="0 0 345 382"
      xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Most used languages">
   <style>
     .title { font: 600 18px 'Segoe UI',Ubuntu,Sans-Serif; fill:#58a6ff; }
     .lg    { font: 400 12px 'Segoe UI',Ubuntu,Sans-Serif; fill:#c9d1d9; }
   </style>
-  <rect x="0.5" y="0.5" rx="10" width="344" height="329"
+  <rect x="0.5" y="0.5" rx="10" width="344" height="381"
         fill="#0d1117" stroke="#30363d"/>
   <text x="25" y="35" class="title">Most Used Languages</text>
   <rect x="25" y="55" width="295" height="8" rx="4" fill="#21262d"/>
-  <rect x="25.0" y="55" width="110.0" height="8" fill="#4F5D95"/><rect x="135.0" y="55" width="39.2" height="8" fill="#e34c26"/><rect x="174.3" y="55" width="37.8" height="8" fill="#3572A5"/><rect x="212.0" y="55" width="35.4" height="8" fill="#012456"/><rect x="247.4" y="55" width="33.9" height="8" fill="#89e051"/><rect x="281.4" y="55" width="20.9" height="8" fill="#f7523f"/><rect x="302.3" y="55" width="8.8" height="8" fill="#b07219"/><rect x="311.1" y="55" width="5.9" height="8" fill="#663399"/><rect x="317.0" y="55" width="2.7" height="8" fill="#f1e05a"/><rect x="319.7" y="55" width="0.6" height="8" fill="#384d54"/>
+  <rect x="25.0" y="55" width="56.6" height="8" fill="#663399"/><rect x="81.6" y="55" width="48.4" height="8" fill="#c6538c"/><rect x="130.0" y="55" width="44.0" height="8" fill="#1d365d"/><rect x="174.0" y="55" width="40.4" height="8" fill="#f1e05a"/><rect x="214.4" y="55" width="35.4" height="8" fill="#4F5D95"/><rect x="249.8" y="55" width="31.3" height="8" fill="#e34c26"/><rect x="281.1" y="55" width="10.6" height="8" fill="#3572A5"/><rect x="291.7" y="55" width="9.7" height="8" fill="#012456"/><rect x="301.4" y="55" width="9.4" height="8" fill="#89e051"/><rect x="310.9" y="55" width="5.9" height="8" fill="#f7523f"/><rect x="316.8" y="55" width="2.4" height="8" fill="#b07219"/><rect x="319.1" y="55" width="0.3" height="8" fill="#384d54"/>
   
-      <circle cx="30" cy="86" r="5" fill="#4F5D95"/>
-      <text x="41" y="90" class="lg">PHP 37.3%</text>
-      <circle cx="193" cy="86" r="5" fill="#e34c26"/>
-      <text x="204" y="90" class="lg">HTML 13.3%</text>
-      <circle cx="30" cy="112" r="5" fill="#3572A5"/>
-      <text x="41" y="116" class="lg">Python 12.8%</text>
-      <circle cx="193" cy="112" r="5" fill="#012456"/>
-      <text x="204" y="116" class="lg">PowerShell 12.0%</text>
-      <circle cx="30" cy="138" r="5" fill="#89e051"/>
-      <text x="41" y="142" class="lg">Shell 11.5%</text>
-      <circle cx="193" cy="138" r="5" fill="#f7523f"/>
-      <text x="204" y="142" class="lg">Blade 7.1%</text>
-      <circle cx="30" cy="164" r="5" fill="#b07219"/>
-      <text x="41" y="168" class="lg">Java 3.0%</text>
-      <circle cx="193" cy="164" r="5" fill="#663399"/>
-      <text x="204" y="168" class="lg">CSS 2.0%</text>
-      <circle cx="30" cy="190" r="5" fill="#f1e05a"/>
-      <text x="41" y="194" class="lg">JavaScript 0.9%</text>
-      <circle cx="193" cy="190" r="5" fill="#384d54"/>
-      <text x="204" y="194" class="lg">Dockerfile 0.2%</text>
+      <circle cx="30" cy="86" r="5" fill="#663399"/>
+      <text x="41" y="90" class="lg">CSS 19.2%</text>
+      <circle cx="193" cy="86" r="5" fill="#c6538c"/>
+      <text x="204" y="90" class="lg">SCSS 16.4%</text>
+      <circle cx="30" cy="112" r="5" fill="#1d365d"/>
+      <text x="41" y="116" class="lg">Less 14.9%</text>
+      <circle cx="193" cy="112" r="5" fill="#f1e05a"/>
+      <text x="204" y="116" class="lg">JavaScript 13.7%</text>
+      <circle cx="30" cy="138" r="5" fill="#4F5D95"/>
+      <text x="41" y="142" class="lg">PHP 12.0%</text>
+      <circle cx="193" cy="138" r="5" fill="#e34c26"/>
+      <text x="204" y="142" class="lg">HTML 10.6%</text>
+      <circle cx="30" cy="164" r="5" fill="#3572A5"/>
+      <text x="41" y="168" class="lg">Python 3.6%</text>
+      <circle cx="193" cy="164" r="5" fill="#012456"/>
+      <text x="204" y="168" class="lg">PowerShell 3.3%</text>
+      <circle cx="30" cy="190" r="5" fill="#89e051"/>
+      <text x="41" y="194" class="lg">Shell 3.2%</text>
+      <circle cx="193" cy="190" r="5" fill="#f7523f"/>
+      <text x="204" y="194" class="lg">Blade 2.0%</text>
+      <circle cx="30" cy="216" r="5" fill="#b07219"/>
+      <text x="41" y="220" class="lg">Java 0.8%</text>
+      <circle cx="193" cy="216" r="5" fill="#384d54"/>
+      <text x="204" y="220" class="lg">Dockerfile 0.1%</text>
 </svg>
