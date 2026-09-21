@@ -8,30 +8,30 @@
         fill="#0d1117" stroke="#30363d"/>
   <text x="25" y="35" class="title">Most Used Languages</text>
   <rect x="25" y="55" width="295" height="8" rx="4" fill="#21262d"/>
-  <rect x="25.0" y="55" width="56.6" height="8" fill="#663399"/><rect x="81.6" y="55" width="48.1" height="8" fill="#c6538c"/><rect x="129.7" y="55" width="43.7" height="8" fill="#1d365d"/><rect x="173.4" y="55" width="40.7" height="8" fill="#f1e05a"/><rect x="214.1" y="55" width="35.1" height="8" fill="#4F5D95"/><rect x="249.2" y="55" width="31.6" height="8" fill="#e34c26"/><rect x="280.8" y="55" width="11.8" height="8" fill="#3572A5"/><rect x="292.6" y="55" width="9.7" height="8" fill="#012456"/><rect x="302.3" y="55" width="9.4" height="8" fill="#89e051"/><rect x="311.7" y="55" width="5.9" height="8" fill="#f7523f"/><rect x="317.6" y="55" width="2.4" height="8" fill="#b07219"/><rect x="320.0" y="55" width="0.3" height="8" fill="#384d54"/>
+  <rect x="25.0" y="55" width="54.6" height="8" fill="#663399"/><rect x="79.6" y="55" width="47.8" height="8" fill="#f1e05a"/><rect x="127.4" y="55" width="41.3" height="8" fill="#c6538c"/><rect x="168.7" y="55" width="37.5" height="8" fill="#1d365d"/><rect x="206.1" y="55" width="32.2" height="8" fill="#3572A5"/><rect x="238.3" y="55" width="30.1" height="8" fill="#4F5D95"/><rect x="268.4" y="55" width="28.0" height="8" fill="#e34c26"/><rect x="296.4" y="55" width="8.3" height="8" fill="#012456"/><rect x="304.7" y="55" width="8.3" height="8" fill="#89e051"/><rect x="312.9" y="55" width="5.0" height="8" fill="#f7523f"/><rect x="317.9" y="55" width="2.1" height="8" fill="#b07219"/><rect x="320.0" y="55" width="0.3" height="8" fill="#384d54"/>
   
       <circle cx="30" cy="86" r="5" fill="#663399"/>
-      <text x="41" y="90" class="lg">CSS 19.2%</text>
-      <circle cx="193" cy="86" r="5" fill="#c6538c"/>
-      <text x="204" y="90" class="lg">SCSS 16.3%</text>
-      <circle cx="30" cy="112" r="5" fill="#1d365d"/>
-      <text x="41" y="116" class="lg">Less 14.8%</text>
-      <circle cx="193" cy="112" r="5" fill="#f1e05a"/>
-      <text x="204" y="116" class="lg">JavaScript 13.8%</text>
-      <circle cx="30" cy="138" r="5" fill="#4F5D95"/>
-      <text x="41" y="142" class="lg">PHP 11.9%</text>
-      <circle cx="193" cy="138" r="5" fill="#e34c26"/>
-      <text x="204" y="142" class="lg">HTML 10.7%</text>
-      <circle cx="30" cy="164" r="5" fill="#3572A5"/>
-      <text x="41" y="168" class="lg">Python 4.0%</text>
+      <text x="41" y="90" class="lg">CSS 18.5%</text>
+      <circle cx="193" cy="86" r="5" fill="#f1e05a"/>
+      <text x="204" y="90" class="lg">JavaScript 16.2%</text>
+      <circle cx="30" cy="112" r="5" fill="#c6538c"/>
+      <text x="41" y="116" class="lg">SCSS 14.0%</text>
+      <circle cx="193" cy="112" r="5" fill="#1d365d"/>
+      <text x="204" y="116" class="lg">Less 12.7%</text>
+      <circle cx="30" cy="138" r="5" fill="#3572A5"/>
+      <text x="41" y="142" class="lg">Python 10.9%</text>
+      <circle cx="193" cy="138" r="5" fill="#4F5D95"/>
+      <text x="204" y="142" class="lg">PHP 10.2%</text>
+      <circle cx="30" cy="164" r="5" fill="#e34c26"/>
+      <text x="41" y="168" class="lg">HTML 9.5%</text>
       <circle cx="193" cy="164" r="5" fill="#012456"/>
-      <text x="204" y="168" class="lg">PowerShell 3.3%</text>
+      <text x="204" y="168" class="lg">PowerShell 2.8%</text>
       <circle cx="30" cy="190" r="5" fill="#89e051"/>
-      <text x="41" y="194" class="lg">Shell 3.2%</text>
+      <text x="41" y="194" class="lg">Shell 2.8%</text>
       <circle cx="193" cy="190" r="5" fill="#f7523f"/>
-      <text x="204" y="194" class="lg">Blade 2.0%</text>
+      <text x="204" y="194" class="lg">Blade 1.7%</text>
       <circle cx="30" cy="216" r="5" fill="#b07219"/>
-      <text x="41" y="220" class="lg">Java 0.8%</text>
+      <text x="41" y="220" class="lg">Java 0.7%</text>
       <circle cx="193" cy="216" r="5" fill="#384d54"/>
       <text x="204" y="220" class="lg">Dockerfile 0.1%</text>
 </svg>
