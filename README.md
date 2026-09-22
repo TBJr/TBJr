@@ -69,7 +69,7 @@ Building scalable, reliable, user-focused digital products. From modern web apps
 </p>
 
 ---
-
+<!--
 ## 🌟 Featured Projects
 
 | Project | Description | Tech Stack |
@@ -80,7 +80,7 @@ Building scalable, reliable, user-focused digital products. From modern web apps
 | **Automation & Deployment** | CI/CD workflows and deployment automation for smoother dev operations. | GitHub Actions · Linux · Bash |
 
 ---
-
+-->
 ## 📊 GitHub Stats
 
 <div align="center">
